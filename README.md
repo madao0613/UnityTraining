@@ -1,3 +1,0 @@
-# UnityTraining
-UnityTraining
-AAAA
