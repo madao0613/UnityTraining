@@ -39,8 +39,8 @@ public class GravityController : MonoBehaviour {
 
             //加速度センサーの入力をUnity空間の軸にマッピングする
             vector.x = Input.acceleration.x;
-            vector.y = Input.acceleration.y;
-            vector.z = Input.acceleration.z;
+            vector.y = Input.acceleration.z;
+            vector.z = Input.acceleration.y;
 
         }
 
